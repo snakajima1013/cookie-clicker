@@ -1,1 +1,3 @@
-cookie-clicker
+# cookie-clicker
+
+sample cookie clicker game.
