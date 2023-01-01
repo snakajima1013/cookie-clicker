@@ -10,16 +10,16 @@
   "author": "snakajima1013",
   "license": "MIT",
   "devDependencies": {
-    "copy-webpack-plugin": "^5.0.4",
+    "copy-webpack-plugin": "^11.0.0",
     "expose-loader": "^0.7.5",
-    "ts-loader": "^6.0.4",
+    "ts-loader": "^9.4.2",
     "typescript": "^3.7.2",
-    "webpack": "^4.41.2",
-    "webpack-cli": "^3.3.7",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1",
     "webpack-dev-server": "^3.8.0",
     "write-file-webpack-plugin": "^4.5.1"
   },
   "dependencies": {
-    "phaser": "^3.21.0"
+    "phaser": "^3.55.2"
   }
 }
